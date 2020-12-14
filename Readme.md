@@ -8,8 +8,8 @@ This Project demonstrates usage of Automating tasks concepts in two separate pyt
 Concepts that are covered is listed as follows.
 
 ------
-:trident: __File 1__ 
-[FinalFile.py](https://github.com/TechieMeSB/PyAutomationProject/FinalFile.py) <br>
+:trident: __My Python Program File__ 
+[FinalFile.py](https://github.com/TechieMeSB/PyAutomationProject/blob/master/FinalFile.py) <br>
 <br>
 
 :diamonds: __Topics Covered__ 
